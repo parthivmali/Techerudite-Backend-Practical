@@ -1,0 +1,32 @@
+# Node.js Dependencies
+node_modules/
+package-lock.json
+
+# Environment Variables
+# .env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build Output
+dist/
+build/
+coverage/
+
+# Database Files
+*.sqlite
+*.db
+*.sql
+
+# Editor Directories
+.vscode/
+.idea/
+.DS_Store
+
+# OS/System Files
+Thumbs.db
